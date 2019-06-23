@@ -3,12 +3,3 @@ Ctrl+N，可以快速打开类
 Alt+Insert，可以生成构造器/Getter/Setter等
 
 
-Ctrl+X，删除行
-Ctrl+D，复制行
-Ctrl+Y，删除当前行
-
-【查找】
-Ctrl+F，查找
-Ctrl+R，替换
-F3，查找下一个
-Shift+F3，查找上一个
